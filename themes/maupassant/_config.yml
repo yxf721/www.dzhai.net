@@ -1,0 +1,23 @@
+fancybox: true
+duoshuo: dzhai
+disqus: #disqus_shortname
+google_search: #false
+baidu_search: #baidu_search
+swiftype: #rF7uZSeWzPRd3AWLhcUx
+tinysou: #tinysou_key
+menu:
+  - page: home
+    directory: /
+    icon: icon-home
+  - page: archive
+    directory: archives/
+    icon: icon-archive
+  - page: about
+    directory: about/
+    icon: icon-about
+  - page: rss
+    directory: atom.xml
+    icon: icon-rss
+links:
+  - title: Cobaya
+    url: http://cobaya.cn/
