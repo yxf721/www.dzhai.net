@@ -59,7 +59,7 @@ export JAVA_HOME=/opt/jdk1.7.0_71
 编辑 /etc/rc.d/rc.local
 ```
 $ sudo vi /etc/rc.d/rc.local 
-``` 
+```
 加入如下内容：
 ```
 export JAVA_HOME=/usr/local/jdk1.7.0_71 

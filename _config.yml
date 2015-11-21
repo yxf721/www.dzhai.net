@@ -129,7 +129,7 @@ admin:
 # to have the minifier ignore a section
 html_minifier:
   exclude:
-  removeComments: true
+  removeComments: false
   removeCommentsFromCDATA: true
   removeCDATASectionsFromCDATA: true
   collapseWhitespace: true
