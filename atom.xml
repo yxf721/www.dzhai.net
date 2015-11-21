@@ -4,7 +4,7 @@
   <subtitle><![CDATA[再牛逼的梦想，也抵不住傻逼似得坚持]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.dzhai.net/"/>
-  <updated>2015-11-21T11:27:02.198Z</updated>
+  <updated>2015-11-21T16:10:28.678Z</updated>
   <id>http://www.dzhai.net/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[数据结构概率]]></title>
+    <link href="http://www.dzhai.net/2015/11/21/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%A6%82%E7%8E%87/"/>
+    <id>http://www.dzhai.net/2015/11/21/数据结构概率/</id>
+    <published>2015-11-21T15:33:37.000Z</published>
+    <updated>2015-11-21T16:10:28.678Z</updated>
+    <content type="html"><![CDATA[<h3 id="算法+数据结构=程序">算法+数据结构=程序</h3><h3 id="基本概念和常用术语">基本概念和常用术语</h3><ol> <li><strong>数据(data)</strong>是描述客观事物的数、字符以及能输入计算机中并被计算机处理的符号的集合。</li> <li><strong>数据元素(data element)</strong>是数据的基本单位。</li> <li><strong>数据对象(data object)</strong>是具有相同性质的数据元素的集合，是数据的一个子集。比如，大写字母数据对象就是集合{‘A’,’B’,…’Z’}.</li> </ol> <a id="more"></a> <h3 id="数据结构包含的内容">数据结构包含的内容</h3><p><strong>数据结构</strong>是带有结构的数据元素的集合。结构指的是数据元素之间的相互关键，即数据的组织形式，结构中的数据元素称为结点。</p> <ol> <li>数据元素之间的逻辑(或抽象)关系，也称为数据的逻辑<blockquote> <ul> <li>线行数据结构的特征是：数据袁术(结点)之间存在着一对一的关系，并且结构中仅有一个开始结点和一个终端结点，其余结点都是仅有一个直接前趋和一个直接后继.</li> <li>非线性数据结构的特点是：数据元素之间存在着一对多或多对多的关系，即一个结点可能有多个直接前趋和多个直接后继。该结构包括树形结构、图形结构和网状结构等</li> </ul> </blockquote> </li> <li>数据元素及其关系在计算机内的存储方式，称为数据的存储接口(物理结构)<blockquote> <ul> <li>顺序存储方法</li> <li>链接存储方法</li> <li>索引存储方法</li> <li>散列存储方法<br>数据结构的逻辑结构、存储结构及运算这三方面看错一个整体</li> </ul> </blockquote> </li> <li>数据的运算，即对数据元素施加的操作(行为)<blockquote> <ul> <li>检索</li> <li>插入</li> <li>删除</li> <li>更新</li> <li>排序</li> </ul> </blockquote> </li> </ol> <h3 id="算法的描述">算法的描述</h3><p>算法是对问题求解步骤的一种描述。通俗地说，一个算法就是一种解题的方法。严格地说，算法是由若干条指令组成的有穷序列，其中每条指令表示一个或多个操作。</p> <ol> <li>输入</li> <li>输出</li> <li>有穷性</li> <li>确定性</li> <li>可行性</li> </ol> <h3 id="算法分析">算法分析</h3><ol> <li>执行算法所耗费的时间，即时间复杂度</li> <li>执行算法所耗费的存储空间，主要是辅助空间，即空间复杂性</li> <li>算法应易于理解，易于编程，易于调试等，即可读性和可操作性</li> </ol> <ol> <li>算法时间复杂度大O表示法<blockquote> <p>按数量级递增排序，依次为：常数阶O(1)、对数阶O(log2n)、线性阶O(n)、线性对数阶O(nlog2n)、平方阶O(n2)、立方阶O(n3)、…k次方阶O(nk)、指数阶O(2n)和阶乘阶O(n!)</p> </blockquote> </li> <li>算法空间复制度S(n)<blockquote> <p>算法空寂复杂度S(n)定义为该算法所耗费的存储空间，它是对一个算法在运行过程中临时占用空间大小的度量，是问题规模n的函数.一个算法在计算机存储器上所占用的存储空间，包括存储算法本身占用的存储空间、算法的输入输出数据所占用的存储空间和算法在运行过程中临时占用存储空间这三个方面</p> </blockquote> </li> </ol> <h3 id="Link">Link</h3><p><a href="https://zh.wikipedia.org/wiki/%E7%AE%97%E6%B3%95" title="维基百科算法" target="_blank" rel="external">维基百科算法</a></p>]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="算法+数据结构=程序">算法+数据结构=程序</h3><h3 id="基本概念和常用术语">基本概念和常用术语</h3><ol> <li><strong>数据(data)</strong>是描述客观事物的数、字符以及能输入计算机中并被计算机处理的符号的集合。</li> <li><strong>数据元素(data element)</strong>是数据的基本单位。</li> <li><strong>数据对象(data object)</strong>是具有相同性质的数据元素的集合，是数据的一个子集。比如，大写字母数据对象就是集合{‘A’,’B’,…’Z’}.</li> </ol>]]>
+    
+    </summary>
+    
+      <category term="数据结构" scheme="http://www.dzhai.net/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+      <category term="读书笔记" scheme="http://www.dzhai.net/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="数据结构" scheme="http://www.dzhai.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+      <category term="读书笔记" scheme="http://www.dzhai.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Nodejs http-server 配置]]></title>
@@ -131,6 +153,23 @@
   </entry>
   
   <entry>
+    <title><![CDATA[Windows下定时删除文件]]></title>
+    <link href="http://www.dzhai.net/2015/03/03/Windows%E4%B8%8B%E5%AE%9A%E6%97%B6%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/"/>
+    <id>http://www.dzhai.net/2015/03/03/Windows下定时删除文件/</id>
+    <published>2015-03-03T02:08:34.000Z</published>
+    <updated>2015-11-21T06:18:15.571Z</updated>
+    <content type="html"><![CDATA[<p>###直接上bat<br><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">@<span class="keyword">echo</span> off</span><br><span class="line">::取<span class="number">7</span>天之前的日期.</span><br><span class="line">&gt;deldata_zw.zhu.vbs <span class="keyword">echo</span> wscript.<span class="keyword">echo</span> dateadd("d",-<span class="number">1</span>,<span class="built_in">date</span>)</span><br><span class="line"><span class="flow">for</span> /f "tokens=<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>* delims=-" <span class="envvar">%%i</span> <span class="flow">in</span> ('cscript /nologo deldata_zw.zhu.vbs') <span class="flow">do</span> (</span><br><span class="line"><span class="keyword">set</span> y=<span class="envvar">%%i</span></span><br><span class="line"><span class="keyword">set</span> m=<span class="envvar">%%j</span></span><br><span class="line"><span class="keyword">set</span> d=<span class="envvar">%%k</span></span><br><span class="line">)</span><br><span class="line"><span class="flow">if</span> <span class="envvar">%m%</span> <span class="operator">LSS</span> <span class="number">10</span> <span class="keyword">set</span> m=<span class="envvar">%m%</span></span><br><span class="line"><span class="flow">if</span> <span class="envvar">%d%</span> <span class="operator">LSS</span> <span class="number">10</span> <span class="keyword">set</span> d=<span class="envvar">%d%</span></span><br><span class="line"><span class="keyword">set</span> rq=<span class="envvar">%y%</span>-<span class="envvar">%m%</span>-<span class="envvar">%d%</span></span><br><span class="line"><span class="keyword">echo</span> 注意:即将删除 <span class="envvar">%rq%</span> 以前建立的文件</span><br><span class="line"><span class="built_in">pause</span></span><br><span class="line">::判断文件</span><br><span class="line"><span class="flow">for</span> /f "delims=" <span class="envvar">%%i</span> <span class="flow">in</span> ('<span class="built_in">dir</span> /a-d /b /s E:\test\*.sql') <span class="flow">do</span> (</span><br><span class="line"><span class="flow">if</span> <span class="envvar">%%~</span>ti <span class="operator">lss</span> <span class="envvar">%rq%</span> <span class="winutils">del</span> /f /q "<span class="envvar">%%i</span>")</span><br><span class="line"><span class="winutils">del</span> deldata_zw.zhu.vbs</span><br><span class="line"><span class="built_in">pause</span></span><br></pre></td></tr></table></figure></p> <p>###Note<br>先在cmd命令中看看自己系统日期的格式化 <strong>date</strong> 和 <strong>time</strong></p>]]></content>
+    <summary type="html">
+    <![CDATA[<p>###直接上bat<br><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><]]>
+    </summary>
+    
+      <category term="Windows" scheme="http://www.dzhai.net/tags/Windows/"/>
+    
+      <category term="环境配置" scheme="http://www.dzhai.net/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[数据结构与算法第一天]]></title>
     <link href="http://www.dzhai.net/2015/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%9501/"/>
     <id>http://www.dzhai.net/2015/03/03/数据结构与算法01/</id>
@@ -146,23 +185,6 @@
       <category term="算法" scheme="http://www.dzhai.net/tags/%E7%AE%97%E6%B3%95/"/>
     
       <category term="数据结构与算法" scheme="http://www.dzhai.net/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Windows下定时删除文件]]></title>
-    <link href="http://www.dzhai.net/2015/03/03/Windows%E4%B8%8B%E5%AE%9A%E6%97%B6%E5%88%A0%E9%99%A4%E6%96%87%E4%BB%B6/"/>
-    <id>http://www.dzhai.net/2015/03/03/Windows下定时删除文件/</id>
-    <published>2015-03-03T02:08:34.000Z</published>
-    <updated>2015-11-21T06:18:15.571Z</updated>
-    <content type="html"><![CDATA[<p>###直接上bat<br><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">@<span class="keyword">echo</span> off</span><br><span class="line">::取<span class="number">7</span>天之前的日期.</span><br><span class="line">&gt;deldata_zw.zhu.vbs <span class="keyword">echo</span> wscript.<span class="keyword">echo</span> dateadd("d",-<span class="number">1</span>,<span class="built_in">date</span>)</span><br><span class="line"><span class="flow">for</span> /f "tokens=<span class="number">1</span>,<span class="number">2</span>,<span class="number">3</span>* delims=-" <span class="envvar">%%i</span> <span class="flow">in</span> ('cscript /nologo deldata_zw.zhu.vbs') <span class="flow">do</span> (</span><br><span class="line"><span class="keyword">set</span> y=<span class="envvar">%%i</span></span><br><span class="line"><span class="keyword">set</span> m=<span class="envvar">%%j</span></span><br><span class="line"><span class="keyword">set</span> d=<span class="envvar">%%k</span></span><br><span class="line">)</span><br><span class="line"><span class="flow">if</span> <span class="envvar">%m%</span> <span class="operator">LSS</span> <span class="number">10</span> <span class="keyword">set</span> m=<span class="envvar">%m%</span></span><br><span class="line"><span class="flow">if</span> <span class="envvar">%d%</span> <span class="operator">LSS</span> <span class="number">10</span> <span class="keyword">set</span> d=<span class="envvar">%d%</span></span><br><span class="line"><span class="keyword">set</span> rq=<span class="envvar">%y%</span>-<span class="envvar">%m%</span>-<span class="envvar">%d%</span></span><br><span class="line"><span class="keyword">echo</span> 注意:即将删除 <span class="envvar">%rq%</span> 以前建立的文件</span><br><span class="line"><span class="built_in">pause</span></span><br><span class="line">::判断文件</span><br><span class="line"><span class="flow">for</span> /f "delims=" <span class="envvar">%%i</span> <span class="flow">in</span> ('<span class="built_in">dir</span> /a-d /b /s E:\test\*.sql') <span class="flow">do</span> (</span><br><span class="line"><span class="flow">if</span> <span class="envvar">%%~</span>ti <span class="operator">lss</span> <span class="envvar">%rq%</span> <span class="winutils">del</span> /f /q "<span class="envvar">%%i</span>")</span><br><span class="line"><span class="winutils">del</span> deldata_zw.zhu.vbs</span><br><span class="line"><span class="built_in">pause</span></span><br></pre></td></tr></table></figure></p> <p>###Note<br>先在cmd命令中看看自己系统日期的格式化 <strong>date</strong> 和 <strong>time</strong></p>]]></content>
-    <summary type="html">
-    <![CDATA[<p>###直接上bat<br><figure class="highlight dos"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><]]>
-    </summary>
-    
-      <category term="Windows" scheme="http://www.dzhai.net/tags/Windows/"/>
-    
-      <category term="环境配置" scheme="http://www.dzhai.net/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
@@ -281,6 +303,24 @@
   </entry>
   
   <entry>
+    <title><![CDATA[单例模式]]></title>
+    <link href="http://www.dzhai.net/2014/11/10/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://www.dzhai.net/2014/11/10/单例模式/</id>
+    <published>2014-11-10T02:23:26.000Z</published>
+    <updated>2015-11-21T06:18:15.536Z</updated>
+    <content type="html"><![CDATA[<h3 id="单例模式">单例模式</h3><ol> <li><strong>定义</strong><br>保证一个类仅有一个实例，并提供一个访问它的全局访问点</li> <li><strong>实现方式</strong><br>懒汉式<br>饿汉式<br>双重加锁<br>内部类<br>枚举 </li> </ol> <h3 id="Link">Link</h3><ul> <li><a href="https://github.com/dzhai/Demo/tree/master/Designpattern/src/com/d/singleton" target="_blank" rel="external">源码地址</a></li> <li><a href="http://blog.csdn.net/m13666368773/article/details/7679343" target="_blank" rel="external">http://blog.csdn.net/m13666368773/article/details/7679343</a></li> </ul> <a id="more"></a>]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="单例模式">单例模式</h3><ol> <li><strong>定义</strong><br>保证一个类仅有一个实例，并提供一个访问它的全局访问点</li> <li><strong>实现方式</strong><br>懒汉式<br>饿汉式<br>双重加锁<br>内部类<br>枚举 </li> </ol> <h3 id="Link">Link</h3><ul> <li><a href="https://github.com/dzhai/Demo/tree/master/Designpattern/src/com/d/singleton">源码地址</a></li> <li><a href="http://blog.csdn.net/m13666368773/article/details/7679343">http://blog.csdn.net/m13666368773/article/details/7679343</a></li> </ul>]]>
+    
+    </summary>
+    
+      <category term="设计模式" scheme="http://www.dzhai.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="设计模式" scheme="http://www.dzhai.net/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[简单工厂]]></title>
     <link href="http://www.dzhai.net/2014/11/10/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82/"/>
     <id>http://www.dzhai.net/2014/11/10/简单工厂/</id>
@@ -349,44 +389,6 @@
       <category term="设计模式" scheme="http://www.dzhai.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
       <category term="设计模式" scheme="http://www.dzhai.net/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[单例模式]]></title>
-    <link href="http://www.dzhai.net/2014/11/10/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
-    <id>http://www.dzhai.net/2014/11/10/单例模式/</id>
-    <published>2014-11-10T02:23:26.000Z</published>
-    <updated>2015-11-21T06:18:15.536Z</updated>
-    <content type="html"><![CDATA[<h3 id="单例模式">单例模式</h3><ol> <li><strong>定义</strong><br>保证一个类仅有一个实例，并提供一个访问它的全局访问点</li> <li><strong>实现方式</strong><br>懒汉式<br>饿汉式<br>双重加锁<br>内部类<br>枚举 </li> </ol> <h3 id="Link">Link</h3><ul> <li><a href="https://github.com/dzhai/Demo/tree/master/Designpattern/src/com/d/singleton" target="_blank" rel="external">源码地址</a></li> <li><a href="http://blog.csdn.net/m13666368773/article/details/7679343" target="_blank" rel="external">http://blog.csdn.net/m13666368773/article/details/7679343</a></li> </ul> <a id="more"></a>]]></content>
-    <summary type="html">
-    <![CDATA[<h3 id="单例模式">单例模式</h3><ol> <li><strong>定义</strong><br>保证一个类仅有一个实例，并提供一个访问它的全局访问点</li> <li><strong>实现方式</strong><br>懒汉式<br>饿汉式<br>双重加锁<br>内部类<br>枚举 </li> </ol> <h3 id="Link">Link</h3><ul> <li><a href="https://github.com/dzhai/Demo/tree/master/Designpattern/src/com/d/singleton">源码地址</a></li> <li><a href="http://blog.csdn.net/m13666368773/article/details/7679343">http://blog.csdn.net/m13666368773/article/details/7679343</a></li> </ul>]]>
-    
-    </summary>
-    
-      <category term="设计模式" scheme="http://www.dzhai.net/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-      <category term="设计模式" scheme="http://www.dzhai.net/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[ConOS6.5 从MySQL官方Yum仓库安装MySQL5.6]]></title>
-    <link href="http://www.dzhai.net/2014/10/17/%E5%AE%89%E8%A3%85mysql-CenSO6-5/"/>
-    <id>http://www.dzhai.net/2014/10/17/安装mysql-CenSO6-5/</id>
-    <published>2014-10-17T01:54:39.000Z</published>
-    <updated>2015-11-21T06:18:15.566Z</updated>
-    <content type="html"><![CDATA[<p>###下载Yum仓库文件<br>点击链接<a href="http://dev.mysql.com/get/mysql-community-release-el6-5.noarch.rpm" target="_blank" rel="external">No thanks, just start my download</a>直接下载 </p> <h3 id="安装Mysql">安装Mysql</h3><p>下载完成后将Yum库导入到你的本地：</p> <blockquote> <p>sudo yum localinstall mysql-community-release-el6-*.noarch.rpm</p> </blockquote> <p>这个Yum库包含了MySQLServer，MySQL工作台管理工具以及ODBC驱动，现在可以通过下面的命令简单地安装MySQLServer：</p> <blockquote> <p>sudo yum install mysql-community-server</p> </blockquote> <h3 id="修改配置">修改配置</h3><p>mysql的几个重要目录</p> <blockquote> <p>数据库目录<br>/var/lib/mysql/<br>配置文件<br>/usr/share/mysql（mysql.server命令及配置文件）<br>/etc/my.cnf<br>相关命令<br>/usr/bin（mysqladmin mysqldump等命令）<br>启动脚本<br>/etc/rc.d/init.d/（启动脚本文件mysql的目录）</p> </blockquote> <p>centos彻底删除mysql </p> <blockquote> <p>yum remove mysql mysql-server mysql-libs compat-mysql51<br>rm -rf /var/lib/mysql<br>rm /etc/my.cnf<br>查看是否还有mysql软件：<br>rpm -qa|grep mysql<br>有的话继续删除</p> </blockquote> <p>LINUX下的MYSQL默认是要区分表名大小写，设置不区分大小写 </p> <blockquote> <p>1.用ROOT登录，修改/etc/my.cnf<br>2.在[mysqld]下加入一行：lower_case_table_names=1<br>3.重新启动数据库即可 sudo servcie mysqld restart</p> </blockquote> <p>设置root 密码</p> <blockquote> <p>update user set password = password (‘123456’) where user = “root”<br>Node：设置完密码后 直接使用 mysql 命令是进不去mysql 数据库的<br> 要使用命令 mysql -u root -p</p> </blockquote> <p>设置Mysql 开机启动</p> <blockquote> <p>检查mysql 是否开机启动(如果2–5为on的状态就OK)<br>chkconfig –list mysqld<br>(mysqld 0:off 1:off 2:on 3:on 4:on 5:on 6:off)<br>设置开机启动<br>chkconfig mysqld on<br>关闭开机启动<br>chkconfig mysqld off</p> </blockquote> <hr> <p>###Link<br><a href="http://dev.mysql.com/downloads/repo/yum/" target="_blank" rel="external">Mysql Yum Repository</a><br><a href="http://www.cnblogs.com/chuncn/archive/2010/10/17/1853915.html" target="_blank" rel="external">yun 命令</a><br><a href="http://www.linuxidc.com/Linux/2014-06/103111.htm" target="_blank" rel="external">http://www.linuxidc.com/Linux/2014-06/103111.htm</a><br><a href="http://361324767.blog.163.com/blog/static/11490252520124454042468/" target="_blank" rel="external">http://361324767.blog.163.com/blog/static/11490252520124454042468/</a><br><a href="https://www.centos.org/forums/viewtopic.php?t=2230" target="_blank" rel="external">https://www.centos.org/forums/viewtopic.php?t=2230</a><br><a href="http://blog.163.com/yang_jianli/blog/static/1619900062012915115253789/" target="_blank" rel="external">http://blog.163.com/yang_jianli/blog/static/1619900062012915115253789/</a><br><a href="http://www.cnblogs.com/jifeng/archive/2010/08/29/1811879.html" target="_blank" rel="external">http://www.cnblogs.com/jifeng/archive/2010/08/29/1811879.html</a><br><a id="more"></a></p>]]></content>
-    <summary type="html">
-    <![CDATA[<p>###下载Yum仓库文件<br>点击链接<a href="http://dev.mysql.com/get/mysql-community-release-el6-5.noarch.rpm">No thanks, just start my download</a>直接下载 </p> <h3 id="安装Mysql">安装Mysql</h3><p>下载完成后将Yum库导入到你的本地：</p> <blockquote> <p>sudo yum localinstall mysql-community-release-el6-*.noarch.rpm</p> </blockquote> <p>这个Yum库包含了MySQLServer，MySQL工作台管理工具以及ODBC驱动，现在可以通过下面的命令简单地安装MySQLServer：</p> <blockquote> <p>sudo yum install mysql-community-server</p> </blockquote> <h3 id="修改配置">修改配置</h3><p>mysql的几个重要目录</p> <blockquote> <p>数据库目录<br>/var/lib/mysql/<br>配置文件<br>/usr/share/mysql（mysql.server命令及配置文件）<br>/etc/my.cnf<br>相关命令<br>/usr/bin（mysqladmin mysqldump等命令）<br>启动脚本<br>/etc/rc.d/init.d/（启动脚本文件mysql的目录）</p> </blockquote> <p>centos彻底删除mysql </p> <blockquote> <p>yum remove mysql mysql-server mysql-libs compat-mysql51<br>rm -rf /var/lib/mysql<br>rm /etc/my.cnf<br>查看是否还有mysql软件：<br>rpm -qa|grep mysql<br>有的话继续删除</p> </blockquote> <p>LINUX下的MYSQL默认是要区分表名大小写，设置不区分大小写 </p> <blockquote> <p>1.用ROOT登录，修改/etc/my.cnf<br>2.在[mysqld]下加入一行：lower_case_table_names=1<br>3.重新启动数据库即可 sudo servcie mysqld restart</p> </blockquote> <p>设置root 密码</p> <blockquote> <p>update user set password = password (‘123456’) where user = “root”<br>Node：设置完密码后 直接使用 mysql 命令是进不去mysql 数据库的<br> 要使用命令 mysql -u root -p</p> </blockquote> <p>设置Mysql 开机启动</p> <blockquote> <p>检查mysql 是否开机启动(如果2–5为on的状态就OK)<br>chkconfig –list mysqld<br>(mysqld 0:off 1:off 2:on 3:on 4:on 5:on 6:off)<br>设置开机启动<br>chkconfig mysqld on<br>关闭开机启动<br>chkconfig mysqld off</p> </blockquote> <hr> <p>###Link<br><a href="http://dev.mysql.com/downloads/repo/yum/">Mysql Yum Repository</a><br><a href="http://www.cnblogs.com/chuncn/archive/2010/10/17/1853915.html">yun 命令</a><br><a href="http://www.linuxidc.com/Linux/2014-06/103111.htm">http://www.linuxidc.com/Linux/2014-06/103111.htm</a><br><a href="http://361324767.blog.163.com/blog/static/11490252520124454042468/">http://361324767.blog.163.com/blog/static/11490252520124454042468/</a><br><a href="https://www.centos.org/forums/viewtopic.php?t=2230">https://www.centos.org/forums/viewtopic.php?t=2230</a><br><a href="http://blog.163.com/yang_jianli/blog/static/1619900062012915115253789/">http://blog.163.com/yang_jianli/blog/static/1619900062012915115253789/</a><br><a href="http://www.cnblogs.com/jifeng/archive/2010/08/29/1811879.html">http://www.cnblogs.com/jifeng/archive/2010/08/29/1811879.html</a><br>]]>
-    
-    </summary>
-    
-      <category term="CenOS" scheme="http://www.dzhai.net/tags/CenOS/"/>
-    
-      <category term="Mysql" scheme="http://www.dzhai.net/tags/Mysql/"/>
-    
-      <category term="环境配置" scheme="http://www.dzhai.net/categories/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
