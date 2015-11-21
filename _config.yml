@@ -112,6 +112,9 @@ deploy:
 # NexT Theme configuration
 # =============================================================================
 
+# 七牛云存储
+static.webservice: http://7xjq6x.com1.z0.glb.clouddn.com
+
 # 多说帐号
 duoshuo_shortname: dzhai
 
@@ -119,10 +122,10 @@ duoshuo_shortname: dzhai
 #disqus_shortname: 
 
 # JiaThis 分享服务
-jiathis: true
+jiathis: false
 
 # 多说 分享服务（必须启用多说）
-duoshuo_share: 
+duoshuo_share: true 
 
 # 社交链接，将在侧栏中显示
 social:
