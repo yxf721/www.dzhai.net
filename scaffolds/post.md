@@ -1,6 +1,6 @@
 title: {{ title }}
 date: {{ date }}
-categories: blog
+categories: [dzhai,dzhai]
 tags: [dzhai,dzhai]
 keywords: {{ title }}
 ---
